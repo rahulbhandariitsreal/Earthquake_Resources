@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EquakeAcitvity</string>
+    <string name="nodata">No data Available</string>
+    <string name="internet">No Internet Connection</string>
+</resources>
